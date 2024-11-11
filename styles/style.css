@@ -6,10 +6,12 @@
 }
 
 .article {
-
+    display: flex;
+    column-gap: 1em;
+    
 }
 
 .article__body {
-
+    width: 10000%;
 }
 
