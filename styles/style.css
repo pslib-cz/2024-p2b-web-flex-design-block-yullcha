@@ -12,6 +12,6 @@
 }
 
 .article__body {
-    width: 10000%;
+    flex-grow: 1;
 }
 
