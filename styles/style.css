@@ -21,8 +21,8 @@ h1 {
  
 .article {
     display: grid;
-    grid-template-columns: auto 3px 1fr auto;
-    gap: 1em;
+    grid-template-columns: 120px auto 3px 1fr;
+    gap: 1rem;
     align-items: center;
     border: 1px solid #ddd;
     padding: 1em;
