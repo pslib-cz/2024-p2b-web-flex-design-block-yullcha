@@ -58,7 +58,10 @@ h1 {
 .article-item{
     content:" "
     align-self: center;
-    
+    display: block;
+    padding: 0;
+    width: 3px;
+    height: 80px;
 }
 
 .article__footer {
